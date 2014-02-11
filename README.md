@@ -23,3 +23,8 @@ Things i'm learning about and what to document;
 	- view controllers
 	- navigation controllers
 	- storyboard
+
+## Great Resources
+
+- [Learning Xcode 5 as a Designer](https://medium.com/design-ux/62b643a3a0f7) - Meng To
+- [Building Potluck](https://medium.com/building-potluck/7f493cdfa381) - Julius Tarng
