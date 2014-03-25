@@ -16,6 +16,7 @@ Things i'm learning about and what to document;
 	- what type of app?
 	- using the local build process
 	- what the IDE
+	- layout of xcode itself
 - iOS Application Directory Structuring
 	- what's .h and .m
 	- what's frameworks / products
@@ -23,8 +24,22 @@ Things i'm learning about and what to document;
 	- view controllers
 	- navigation controllers
 	- storyboard
+- Navigating Obc-C Verbose Nomenclature
+	- what's a method/variable/object/property/instance, etc. 
+- Using the `UIView animate...` methods
 
 ## Great Resources
 
-- [Learning Xcode 5 as a Designer](https://medium.com/design-ux/62b643a3a0f7) - Meng To
+Articles, books, videos
+
+**Design/Code**
+
+- [Learning Xcode 5 as a Designer](https://medium.com/learning-xcode-as-a-designer) - Meng To
 - [Building Potluck](https://medium.com/building-potluck/7f493cdfa381) - Julius Tarng
+- [Subc](http://subjc.com/) - Sam Page
+- [Design+Code](http://designcode.io/) - Meng To
+
+**Code**
+
+- [Objc.io](http://objc.io)
+- [NSHipster](http://nshipster.com/)
