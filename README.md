@@ -1,4 +1,4 @@
-# Xcode for Designers
+# UIViews
 
 Build (req [npm](http://npmjs.org))
 
