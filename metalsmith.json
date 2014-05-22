@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "title": "UIViews",
+    "description": "Xcode & Objective-C for Designers"
+  },
+  "source": "./src",
+  "destination": "./",
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-templates": {
+      "engine": "handlebars"
+    },
+    "metalsmith-sass": {}
+  }
+}
