@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="464px" height="254px" viewBox="0 0 464 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.2 (7799) - http://www.bohemiancoding.com/sketch -->
+    <title>logoSq</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="3" sketch:type="MSLayerGroup" fill-opacity="0.75">
+            <g id="bottom" transform="translate(0.000000, 127.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-13" fill="#39BAD7" x="0" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+                <rect id="Rectangle-12" fill="#0098BA" x="37.2192513" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+                <rect id="Rectangle-11" fill="#0384A1" x="74.4385027" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+                <rect id="Rectangle-10" fill="#006E87" x="111.657754" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+            </g>
+            <g id="top" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-13" fill="#F7313E" x="0" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+                <rect id="Rectangle-12" fill="#F7313E" x="37.2192513" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+                <rect id="Rectangle-11" fill="#CE303E" x="74.4385027" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+                <rect id="Rectangle-10" fill="#BF1E2E" x="111.657754" y="-0.167471139" width="352.342246" height="127.167471"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

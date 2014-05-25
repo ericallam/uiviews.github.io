@@ -2,6 +2,52 @@
 // --------------------
 
 // Import Resets
- @import "../lib/aglobof-sass-defaults/normalize";
- @import "../lib/aglobof-sass-defaults/box";
+@import "../lib/aglobof-sass-defaults/normalize";
+@import "../lib/aglobof-sass-defaults/box";
+
+// Design Prototyping
+a {text-decoration: none;}
+
+.header {
+  width: 100%;
+  font-weight: 100;
+  background: #f2f2f2;
+}
+
+.logo {
+  background: url(/logoSq.svg) no-repeat 0,0;
+  background-size: 100%;
+  display: inline-block;
+  padding: 40px 50px;
+  p {
+    color: #fff;
+    font-size: 2rem;
+    margin: 0;
+  }
+}
+
+.nav, .nav--item {
+  display: inline-block;
+  .active {
+    background: #fff;
+  }
+}
+
+.nav--item {
+  a {
+    color: #808080;
+    padding: 5rem;
+    &:hover {
+      color: #333;
+    }
+  }
+}
+
+.list-clear {
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+}
 
