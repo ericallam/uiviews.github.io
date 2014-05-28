@@ -11,6 +11,11 @@
       "engine": "handlebars"
     },
     "metalsmith-sass": {},
-    "metalsmith-watch": {}
+    "metalsmith-watch": {},
+    "metalsmith-collections": {
+      "articles": {
+        "sortBy": "date"
+      }
+    }
   }
 }

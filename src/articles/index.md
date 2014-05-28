@@ -5,4 +5,4 @@ title: Articles
 
 # Articles
 
-### [Test Post](/articles/test-post.html)
+### {{ collection.articles }}

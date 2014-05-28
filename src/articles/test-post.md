@@ -1,5 +1,6 @@
 ---
 template: index.html
+collection: articles
 title: Test Post
 ---
 
