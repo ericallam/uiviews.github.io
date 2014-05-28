@@ -7,11 +7,19 @@
   "destination": "./",
   "plugins": {
     "metalsmith-markdown": {},
-    "metalsmith-templates": {
-      "engine": "handlebars"
-    },
     "metalsmith-sass": {},
     "metalsmith-watch": {},
+    "metalsmith-templates": {
+      "engine": "handlebars",
+      "partials": {
+        "header": "partials/header",
+        "footer": "partials/footer"
+      }
+    },
+    "metalsmith-permalinks": {
+      "pattern": ":url",
+      "relative": false
+    },
     "metalsmith-collections": {
       "articles": {
         "sortBy": "date"

@@ -1,8 +1,4 @@
 ---
-template: index.html
 title: Articles
+template: articles.html
 ---
-
-# Articles
-
-### {{ collection.articles }}

@@ -1,7 +1,8 @@
 ---
+title: Test Post
 template: index.html
 collection: articles
-title: Test Post
+date: 2014-05-28
 ---
 
 # Test Post
