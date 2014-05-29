@@ -6,11 +6,24 @@
   "source": "./src",
   "destination": "./",
   "plugins": {
-    "metalsmith-markdown": {},
-    "metalsmith-templates": {
-      "engine": "handlebars"
+    "metalsmith-collections": {
+      "articles": {
+        "sortBy": "date"
+      }
     },
+   "metalsmith-markdown": {},
     "metalsmith-sass": {},
-    "metalsmith-watch": {}
+    "metalsmith-watch": {},
+    "metalsmith-templates": {
+      "engine": "handlebars",
+      "partials": {
+        "header": "partials/header",
+        "footer": "partials/footer"
+      }
+    },
+    "metalsmith-permalinks": {
+      "pattern": ":url",
+      "relative": false
+    }
   }
 }

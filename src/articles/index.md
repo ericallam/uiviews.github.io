@@ -1,8 +1,4 @@
 ---
-template: index.html
 title: Articles
+template: articles.html
 ---
-
-# Articles
-
-### [Test Post](/articles/test-post.html)
