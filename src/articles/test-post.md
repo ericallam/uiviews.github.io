@@ -1,6 +1,7 @@
 ---
 title: Test Post
 template: index.html
+href: test-post
 collection: articles
 date: 2014-05-28
 ---

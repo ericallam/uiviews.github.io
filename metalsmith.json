@@ -6,7 +6,12 @@
   "source": "./src",
   "destination": "./",
   "plugins": {
-    "metalsmith-markdown": {},
+    "metalsmith-collections": {
+      "articles": {
+        "sortBy": "date"
+      }
+    },
+   "metalsmith-markdown": {},
     "metalsmith-sass": {},
     "metalsmith-watch": {},
     "metalsmith-templates": {
@@ -19,11 +24,6 @@
     "metalsmith-permalinks": {
       "pattern": ":url",
       "relative": false
-    },
-    "metalsmith-collections": {
-      "articles": {
-        "sortBy": "date"
-      }
     }
   }
 }
