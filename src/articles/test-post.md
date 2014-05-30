@@ -21,7 +21,7 @@ Here is a code block
 
 ### Code Block
 
-```
+```objc
 CGRect viewRect = CGRectMake(10, 10, 100, 100);
 UIView* myView = [[UIView alloc] initWithFrame:viewRect];
 ```

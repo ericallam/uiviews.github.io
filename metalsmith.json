@@ -11,7 +11,8 @@
         "sortBy": "date"
       }
     },
-   "metalsmith-markdown": {},
+    "metalsmith-metallic": true,
+    "metalsmith-markdown": {},
     "metalsmith-sass": {},
     "metalsmith-watch": {},
     "metalsmith-templates": {
